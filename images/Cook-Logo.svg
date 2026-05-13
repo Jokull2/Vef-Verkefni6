@@ -1,0 +1,26 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- 🔵 Bakgrunnur -->
+  <circle cx="60" cy="60" r="55" fill="#ff6b35"></circle>
+
+  <!-- 🍳 Panna -->
+  <rect x="30" y="55" width="60" height="25" rx="6" fill="#333"></rect>
+
+  <!-- 🔥 Handfang -->
+  <rect x="85" y="62" width="20" height="8" rx="3" fill="#222"></rect>
+
+  <!-- 🍳 Egg -->
+  <circle cx="55" cy="50" r="10" fill="#fff"></circle>
+  <circle cx="55" cy="50" r="4" fill="#f4c542"></circle>
+
+  <!-- 🔥 gufa -->
+  <path d="M40 30 C35 20, 45 15, 40 5" stroke="white" stroke-width="3" fill="none"></path>
+  <path d="M60 30 C55 20, 65 15, 60 5" stroke="white" stroke-width="3" fill="none"></path>
+  <path d="M80 30 C75 20, 85 15, 80 5" stroke="white" stroke-width="3" fill="none"></path>
+
+  <!-- 🍽 Text -->
+  <text x="60" y="105" text-anchor="middle" font-size="12" fill="white" font-family="Arial">
+    CookParty
+  </text>
+
+</svg>
